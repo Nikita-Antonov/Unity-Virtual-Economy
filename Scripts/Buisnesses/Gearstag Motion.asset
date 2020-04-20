@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2cd6b36d8c0f04696917785a454da5, type: 3}
+  m_Name: Gearstag Motion
+  m_EditorClassIdentifier: 
+  buisnessName: Gearstag Motion
+  buisnessMoney: []
+  currentNumberOfWorkers: []
+  prefferedCurrencyUnit: 1
+  lookingToHire: 1
+  workStart: 9
+  workEnd: 17
+  payout: 0
+  buisnessWorkers:
+  - worker: {fileID: 11400000, guid: 7f32e6c92c526c94eb8ba1b7af578156, type: 2}
+  buissnessBankAccount:
+  - curency: {fileID: 11400000, guid: bc3d4a0756f525f45b21ed1927a64496, type: 2}
+    amount: 12
+  - curency: {fileID: 0}
+    amount: 0
+  - curency: {fileID: 0}
+    amount: 0
+  buisnessInventory: []
